@@ -1,7 +1,7 @@
 # Zoo Tycoon
-## Zoo Tycoon concept game written in C++
+Zoo Tycoon concept game written in C++
 
-### Gameplay
+## Gameplay
 
 The player begins with a specific amount of money in the bank, e.g. 100,000 dollars. At the start, the player needs to buy three types of animals (tigers, penguins, turtles) to start the business. Each type should have a quantity of either 1 or 2. For each animal bought, the cost is subtracted from the bank. All newly bought animals are 1 day old.
 
