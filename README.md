@@ -1,4 +1,4 @@
-# Zoo-Tycoon
+# Zoo Tycoon
 ## Zoo Tycoon concept game written in C++
 
 ### Gameplay
